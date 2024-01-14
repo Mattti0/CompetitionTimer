@@ -28,3 +28,5 @@ Get ourself a fresh version of Python 3,
 , ```pip install paho-mqtt```,  that is all.
 
 Open console to install folder and run ```python ajanotto_menu.py```
+
+TO use flask backed run following: `flask --app competition_timer.py run`
